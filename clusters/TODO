@@ -1,0 +1,9 @@
+Subiectul 2
+
+Se da setul de date:
+
+http://archive.ics.uci.edu/ml/datasets/Iris
+
+Sa se utilizeze un mecanism de clustering. În ce măsură reflectă rezultatele obținute tipul de plantă?
+
+cluster=>KMeans

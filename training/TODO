@@ -1,0 +1,9 @@
+Subiectul 3
+
+Se da setul de date:
+
+http://archive.ics.uci.edu/ml/datasets/Bank+Marketing#
+
+Sa se antreneze un mecanism care sa prezica daca un client va face un depozit pe termen lung.
+
+Ultimele 10% dintre randuri vor fi utilizate ca exemple de test.
